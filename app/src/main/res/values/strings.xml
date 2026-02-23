@@ -1,0 +1,94 @@
+<resources>
+    <!-- Ogólne -->
+    <string name="app_name">Szychtownik</string>
+    <string name="dialog_action_close">Zamknij</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_cancel">Anuluj</string>
+    <string name="action_delete">Usuń</string>
+    <string name="action_confirm">Zatwierdź</string>
+    <string name="action_skip">Pomiń</string>
+    <string name="label_color">Kolor</string>
+
+    <!-- Kalendarz -->
+    <string name="previous_month">Poprzedni miesiąc</string>
+    <string name="next_month">Następny miesiąc</string>
+    <string name="menu_description">Menu</string>
+    <string name="remove_special_day_mark">Usuń oznaczenie</string>
+    <string name="label_details_for_date">Szczegóły - %1$s</string>
+    <string name="label_day_mark">Oznaczenie:</string>
+    <string name="label_note">Notatka:</string>
+
+    <!-- Menu -->
+    <string name="menu_brigade_selection">Wybór brygady</string>
+    <string name="menu_settings">Ustawienia</string>
+    <string name="menu_about">O aplikacji</string>
+
+    <!-- Notatki -->
+    <string name="dialog_title_note_for_date">Notatka - %1$s</string>
+    <string name="action_add_edit_note">Dodaj/Edytuj notatkę</string>
+    <string name="label_note_content">Treść notatki</string>
+    <string name="label_remind">Przypomnij</string>
+    <string name="label_hour">Godzina: %1$s</string>
+    <string name="icon_description_set_time">Ustaw godzinę</string>
+
+    <!-- Ustawienia -->
+    <string name="title_settings">Ustawienia</string>
+    <string name="settings_title_brigade">Ustawienia brygady</string>
+    <string name="label_start_date_for_brigade">Data początkowa dla: %1$s</string>
+    <string name="icon_description_change_date">Zmień datę</string>
+    <string name="title_custom_day_types">Niestandardowe oznaczenia dni</string>
+    <string name="settings_title_general">Ustawienia ogólne</string>
+    <string name="label_choose_icon">Wybierz ikonkę</string>
+    <string name="settings_title_backup">Kopia zapasowa</string>
+    <string name="action_export_settings">Eksportuj ustawienia</string>
+    <string name="action_import_settings">Importuj ustawienia</string>
+    <string name="icon_description_export">Eksportuj</string>
+    <string name="icon_description_import">Importuj</string>
+
+    <!-- Dni niestandardowe -->
+    <string name="title_custom_day_management">Niestandardowe oznaczenia</string>
+    <string name="action_add_new_day_type">Dodaj nowy typ dnia</string>
+    <string name="dialog_title_new_day_type">Nowe oznaczenie</string>
+    <string name="dialog_title_edit_day_type">Edytuj oznaczenie</string>
+    <string name="label_code_max_chars">Oznaczenie (max. 2 znaki)</string>
+    <string name="label_description">Opis</string>
+    <string name="label_remind_on_add">Przypomnij przy wstawianiu</string>
+    <string name="icon_description_edit">Edytuj</string>
+    <string name="label_yearly_limit">Limit roczny (dni)</string>
+
+    <!-- Wybór koloru -->
+    <string name="dialog_title_choose_color">Wybierz kolor</string>
+    <string name="dialog_title_custom_color">Wybierz własny kolor</string>
+    <string name="icon_description_custom_color">Wybierz własny kolor</string>
+
+    <!-- Ikony aplikacji -->
+    <string name="dialog_title_choose_app_icon">Wybierz ikonę aplikacji</string>
+    <string name="icon_description_for_app">Ikona %1$s</string>
+
+    <!-- Okno "O aplikacji" i "Co nowego?" -->
+    <string name="dialog_about_title">O Szychtowniku</string>
+    <string name="dialog_about_version_label">Wersja:</string>
+    <string name="dialog_about_copyright_label">Prawa autorskie:</string>
+    <string name="dialog_about_copyright_text">© 2024 Dawid Bujok. Wszelkie prawa zastrzeżone.</string>
+    <string name="dialog_about_whats_new_label">Co nowego:</string>
+    <string name="dialog_about_whats_new_content">Wersja 1.5:\n- Wprowadzono system limitów rocznych dla oznaczeń. W edycji dowolnego oznaczenia (np. Urlop) możesz teraz włączyć opcję „Prowadź rejestr i limit roczny” oraz wpisać przysługujący limit dni.\n\n- Dodano nowy panel „Urlopy” w menu, który wyświetla szczegółowe statystyki: dni wykorzystane (te, które już minęły), dni zaplanowane w przyszłości oraz pozostały limit.\n\n- Poprzednie nowości: dodano notatki z przypomnieniami oraz opcję alarmu przy wstawianiu oznaczeń dni specjalnych.</string>
+    <string name="dialog_title_whats_new_version">Co nowego w wersji %1$s</string>
+    <string name="text_new_features_intro">W tej wersji wprowadziliśmy nowe funkcje:</string>
+    <string name="action_understood">Zrozumiałem</string>
+    <string name="privacy_policy">Polityka Prywatności</string>
+
+    <!-- Przypomnienia -->
+    <string name="dialog_title_set_reminder">Ustawić przypomnienie?</string>
+    <string name="prompt_special_day_reminder">Wybrałeś oznaczenie \"%1$s\", które ma włączoną opcję przypomnienia. Możesz teraz ustawić godzinę alarmu lub pominąć ten krok.</string>
+    <string name="action_choose_hour">Wybierz godzinę</string>
+
+    <!-- Urlopy -->
+    <string name="title_vacations">Urlopy</string>
+    <string name="label_used">Wykorzystano:</string>
+    <string name="label_planned">Zaplanowano:</string>
+    <string name="label_remaining">Pozostało:</string>
+    <string name="label_total">Razem:</string>
+    <string name="label_no_limit">Brak limitu</string>
+    <string name="menu_vacations">Urlopy</string>
+
+</resources>
