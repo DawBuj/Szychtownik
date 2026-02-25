@@ -147,7 +147,7 @@ fun CustomDayTypeEditDialog(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Checkbox(checked = isLimitEnabled, onCheckedChange = { isLimitEnabled = it })
-                    Text("Prowadź rejestr i limit roczny", style = MaterialTheme.typography.bodyMedium)
+                    Text("Ustaw pulę wolnego / urlopu", style = MaterialTheme.typography.bodyMedium)
                 }
 
                 if (isLimitEnabled) {

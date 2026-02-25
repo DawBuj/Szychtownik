@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Ogólne -->
     <string name="app_name">Szychtownik</string>
@@ -54,7 +55,7 @@
     <string name="label_description">Opis</string>
     <string name="label_remind_on_add">Przypomnij przy wstawianiu</string>
     <string name="icon_description_edit">Edytuj</string>
-    <string name="label_yearly_limit">Limit roczny (dni)</string>
+    <string name="label_yearly_limit">Roczna pula (dni)</string>
 
     <!-- Wybór koloru -->
     <string name="dialog_title_choose_color">Wybierz kolor</string>
@@ -71,7 +72,7 @@
     <string name="dialog_about_copyright_label">Prawa autorskie:</string>
     <string name="dialog_about_copyright_text">© 2024 Dawid Bujok. Wszelkie prawa zastrzeżone.</string>
     <string name="dialog_about_whats_new_label">Co nowego:</string>
-    <string name="dialog_about_whats_new_content">Wersja 1.5:\n- Wprowadzono system limitów rocznych dla oznaczeń. W edycji dowolnego oznaczenia (np. Urlop) możesz teraz włączyć opcję „Prowadź rejestr i limit roczny” oraz wpisać przysługujący limit dni.\n\n- Dodano nowy panel „Urlopy” w menu, który wyświetla szczegółowe statystyki: dni wykorzystane (te, które już minęły), dni zaplanowane w przyszłości oraz pozostały limit.\n\n- Poprzednie nowości: dodano notatki z przypomnieniami oraz opcję alarmu przy wstawianiu oznaczeń dni specjalnych.</string>
+    <string name="dialog_about_whats_new_content">Wersja 1.5.1:\n\n1. Roczna pula dni: Możesz teraz ustawić limit dla dowolnego oznaczenia (np. Urlop). Szukaj w: Ustawienia -> Niestandardowe oznaczenia.\n\n2. Panel Urlopy: Nowa sekcja w menu głównym wyświetlająca statystyki wykorzystanych i pozostałych dni.\n\n3. Poprawki: Naprawiliśmy błędy w powiadomieniach i przypomnieniach.\n\n4. Wygląd: Dodano nowe motywy ikon aplikacji (dostępne w Ustawieniach).</string>
     <string name="dialog_title_whats_new_version">Co nowego w wersji %1$s</string>
     <string name="text_new_features_intro">W tej wersji wprowadziliśmy nowe funkcje:</string>
     <string name="action_understood">Zrozumiałem</string>
